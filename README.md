@@ -1,0 +1,1 @@
+#### This mobile app allows users to view a list of users retrieved from the API and go to a detailed page of a particular user by clicking on their card. The app is developed using React-Native, Axios, and Styled-Components technologies.
